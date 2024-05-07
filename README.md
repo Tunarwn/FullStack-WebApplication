@@ -54,34 +54,71 @@ Contributions are welcome. Please fork the repository and submit pull requests t
 - Special acknowledgment to Ecole 42 for their remote authentication API and for the extraordinary and very good training it has provided us so far...
 
 ## Geliştiriciler
+
+
 ## Developers
 
-### Tunahan - Backend Developer
-<figure>
-  <img src="https://github.com/Tunarwn.png?size=100" alt="Tunahan">
-  <figcaption>Backend Developer</figcaption>
-</figure>
+<div class="developer">
+  <div>
+    <figure>
+      <img src="https://github.com/Tunarwn.png?size=100" alt="Tunahan">
+      <figcaption>Backend Developer</figcaption>
+    </figure>
+  </div>
 
-### Niran - Frontend Developer
-<figure>
-  <img src="https://github.com/nirankalyoncu.png?size=100" alt="Niran">
-  <figcaption>Frontend Developer</figcaption>
-</figure>
+  <div>
+    <figure>
+      <img src="https://github.com/nirankalyoncu.png?size=100" alt="Niran">
+      <figcaption>Frontend Developer</figcaption>
+    </figure>
+  </div>
 
-### Bahadır - Frontend Developer
-<figure>
-  <img src="https://github.com/bahadirbolatt.png?size=100" alt="Bahadır">
-  <figcaption>Frontend Developer</figcaption>
-</figure>
+  <div>
+    <figure>
+      <img src="https://github.com/bahadirbolatt.png?size=100" alt="Bahadır">
+      <figcaption>Frontend Developer</figcaption>
+    </figure>
+  </div>
 
-### Yasir - Backend Developer
-<figure>
-  <img src="https://github.com/yasirkelesh.png?size=100" alt="Yasir">
-  <figcaption>Backend Developer</figcaption>
-</figure>
+  <div>
+    <figure>
+      <img src="https://github.com/yasirkelesh.png?size=100" alt="Yasir">
+      <figcaption>Backend Developer</figcaption>
+    </figure>
+  </div>
 
-### Emre - Backend Developer
-<figure>
-  <img src="https://github.com/emreyilmaz2.png?size=100" alt="Emre">
-  <figcaption>Backend Developer</figcaption>
-</figure>
+  <div>
+    <figure>
+      <img src="https://github.com/emreyilmaz2.png?size=100" alt="Emre">
+      <figcaption>Backend Developer</figcaption>
+    </figure>
+  </div>
+</div>
+
+ <style>
+  .developer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .developer > div {
+    flex: 0 0 48%;
+    margin-bottom: 20px;
+  }
+
+  figure {
+    text-align: center;
+  }
+
+  figure img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  figcaption {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+</style>
+
