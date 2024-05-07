@@ -54,7 +54,10 @@ Contributions are welcome. Please fork the repository and submit pull requests t
 - Special acknowledgment to Ecole 42 for their remote authentication API and for the extraordinary and very good training it has provided us so far...
 
 ## Geliştiriciler
-[![Tunahan](https://github.com/Tunarwn.png?size=100)](https://github.com/Tunarwn)
+<figure>
+  <img src="https://github.com/Tunarwn.png?size=100" alt="Tunahan">
+  <figcaption>Backend Developer - Tunahan</figcaption>
+</figure>
 [![Niran](https://github.com/nirankalyoncu.png?size=100)](https://github.com/nirankalyoncu)
 [![Bahadır](https://github.com/bahadirbolatt.png?size=100)](https://github.com/bahadirbolatt)
 [![Yasir](https://github.com/yasirkelesh.png?size=100)](https://github.com/yasirkelesh)
